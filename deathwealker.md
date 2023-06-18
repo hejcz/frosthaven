@@ -40,13 +40,13 @@
 
 | Progress | Description |
 |----|-----|
-| ☒ | Remove two -1 cards |
-| ☐ | Replace one -2 with one +0 card |
-| ☐☐☐ | Replace one -1 card with one +1 card |
-| ☐☐☐ | Replace one +0 card with one +1 curse |
-| ☐☐ | Add one +2 and infuse eclipse |
-| ☐☐ | Add one disarm flip and one muddle flip |
-| ☐☐ | Add two heal 1 target 1 ally flip cards |
+| ☒ | Remove two `-1` cards |
+| ☐ | Replace one `-2` with one `+0` card |
+| ☐☐☐ | Replace one `-1` card with one `+1` card |
+| ☐☐☐ | Replace one `+0` card with one `+1 curse` card |
+| ☐☐ | Add one `+2, infuse eclipse` |
+| ☐☐ | Add one `+0, disarm, flip` and one `+0, muddle, flip` |
+| ☐☐ | Add two `heal 1, target 1 ally, flip` cards |
 | ☐ | Ignore scenario effects |
 | ☐ | Whenever you long rest you may move one shadow up to 3 hexes |
 | ☐ | Whenever you short rest you may use eclipse to perform muddle, curse, range 2 as if you were occupying hex with shadow token |
