@@ -21,6 +21,10 @@
 | 8 | 420 | ☐ |
 | 9 | 500 | ☐ |
 
+##  Retirement
+
+Aesther outpost
+
 
 ## Resources
 
