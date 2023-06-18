@@ -9,18 +9,6 @@
 | Gold | 0 |
 | Recent scenario | 4 |
 
-## Retirement
-
-Team building
-- ☒ Summer 735
-- ☐
-- ☐
-- ☐
-- ☐
-- ☐
-- ☐
-- ☐
-
 |Level | XP required | Status |
 | --- |  --- |--- |
 | 1 | 0 | ☒ |
@@ -32,6 +20,18 @@ Team building
 | 7 | 345 | ☐ |
 | 8 | 420 | ☐ |
 | 9 | 500 | ☐ |
+
+## Retirement
+
+Team building
+- ☒ Summer 735
+- ☐
+- ☐
+- ☐
+- ☐
+- ☐
+- ☐
+- ☐
 
 
 ## Resources
